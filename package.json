@@ -1,0 +1,15 @@
+{
+  "name": "vue-gettext",
+  "version": "1.0.0",
+  "description": "add gettext method to Vue instance",
+  "main": "vue-gettext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vue-gettext"
+  ],
+  "author": "languanhao@gmail.com",
+  "license": "MIT"
+}
