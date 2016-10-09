@@ -11,5 +11,13 @@
     "vue-gettext"
   ],
   "author": "languanhao@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/languanghao/vue-gettext.git"
+  },
+  "bugs": {
+    "url": "https://github.com/languanghao/vue-gettext/issues"
+  },
+  "homepage": "https://github.com/languanghao/vue-gettext#readme"
 }
