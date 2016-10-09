@@ -1,5 +1,5 @@
 {
-  "name": "vue-gettext",
+  "name": "vue-localization",
   "version": "1.0.0",
   "description": "add gettext method to Vue instance",
   "main": "vue-gettext.js",
